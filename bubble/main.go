@@ -5,7 +5,7 @@ import (
 	"math/rand"
 )
 
-// insertion sort algorithm
+// bubble sort algorithm
 // best case O(n)
 // worst case O(n^2)
 // average case O(n^2)
